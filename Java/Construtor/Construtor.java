@@ -1,3 +1,4 @@
+package Construtor;
 public class Construtor {
     private String nome;
     int x, y, z;

@@ -1,3 +1,4 @@
+package Case;
 public class Case {
     public static void main(String[] args) {
         int dia = 4;

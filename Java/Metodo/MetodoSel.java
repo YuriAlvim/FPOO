@@ -1,3 +1,4 @@
+package Metodo;
 import java.util.Scanner;
 
 public class MetodoSel {

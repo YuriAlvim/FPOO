@@ -1,3 +1,4 @@
+package Metodo;
 public class metodo {
     static void teste(String livro, int qua){
         System.out.println("Teste de método em java. " + livro + qua);

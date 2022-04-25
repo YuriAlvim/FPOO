@@ -1,3 +1,4 @@
+package If;
 import java.util.Scanner;
 
 public class IfElse3 {

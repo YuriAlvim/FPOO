@@ -1,3 +1,4 @@
+package Case;
 import java.util.Scanner;
 
 public class CaseMes {

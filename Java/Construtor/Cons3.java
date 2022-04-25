@@ -1,3 +1,4 @@
+package Construtor;
 public class Cons3 {
     int a;
     boolean b;
