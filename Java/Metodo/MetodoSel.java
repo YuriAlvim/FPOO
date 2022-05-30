@@ -11,7 +11,7 @@ public class MetodoSel {
         System.out.println("Digite sua senha:");
         int sen = login.nextInt();
 
-        if (us.contains("carlinda")){
+        if (us.contains("carlinda linda")){
             System.out.println("O login foi um sucesso");
         
         }
